@@ -1,0 +1,15 @@
+{
+  "license": "ISC",
+  "description": "",
+  "main": "main.js",
+  "version": "1.0.0",
+  "name": "tensor-js",
+  "author": "bececrazy",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": "https://github.com/Bececrazy/MathGPU-NodeJS-Math-GPU-Accelerated.git",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
